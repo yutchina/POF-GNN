@@ -2,7 +2,6 @@
 
 ## Python Packages
 ```
-
 torch                          1.11.0+cu113
 torch-cluster                  1.6.0
 torch-geometric                1.6.0
